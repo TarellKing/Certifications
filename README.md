@@ -1,5 +1,8 @@
 # Certifications
+<body> 
 
-<img src=https://kingslanduniversity.com/wp-content/uploads/2020/12/comptia-security-plus-certification-1.jpg>
-<body> test
+
+![cert](https://user-images.githubusercontent.com/121117376/214213553-892b599f-ea91-4374-aa35-513b89c364ef.png)
+
+
 </body> 
